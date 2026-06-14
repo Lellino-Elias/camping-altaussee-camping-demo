@@ -95,7 +95,7 @@ const campingAltaussee: CampsiteConfig = {
       {
         title: "Waschen & Frischwasser",
         text: "Waschmaschine gegen Gebühr, Frischwasser und eine Entsorgung für Chemietoiletten — alles unkompliziert und direkt am Platz.",
-        image: { src: `${IMG}/camping-waschmaschine.webp`, alt: "Waschmaschine und Spülbecken im Waschbereich am Camping Temel" },
+        image: { src: `${IMG}/camping-waschraum.webp`, alt: "Waschbereich am Camping Temel: Waschmaschine, Spülbecken und Infotafel am Platz" },
       },
       {
         title: "Zeltwiese",
