@@ -29,12 +29,12 @@ const campingAltaussee: CampsiteConfig = {
   pillars: [
     {
       title: "Zwischen Wiesen und Bergen",
-      text: "Das grüne Areal liegt eingebettet zwischen Wiesen und Feldern, ringsum die Berge des Ausseerlandes — der Altausseer See ist in wenigen Minuten zu Fuß erreicht.",
+      text: "Eingebettet zwischen Wiesen und Bergen des Ausseerlandes, ist der Altausseer See in wenigen Minuten zu Fuß erreichbar.",
       image: { src: `${IMG}/pillar-wiesen-berge.webp`, alt: "Stellplätze auf der Wiese mit Holzstadl und Bergkulisse bei Camping Temel" },
     },
     {
       title: "Familie Temel",
-      text: "1996 auf dem Bauernhof der Familie Temel errichtet, seit dem Frühjahr 2012 von Līga und Stefan persönlich geführt — hier kennt man seine Gäste noch.",
+      text: "Seit 1996 gewachsen, seit 2012 von Līga und Stefan persönlich geführt — hier kennt man seine Gäste noch.",
       image: { src: `${IMG}/pillar-familie-temel.webp`, alt: "Die Gastgeberfamilie Temel in Tracht am Platz" },
     },
     {
@@ -84,12 +84,12 @@ const campingAltaussee: CampsiteConfig = {
       },
       {
         title: "Strom & Versorgung",
-        text: "Die meisten Stellplätze haben einen eigenen 16-A-Stromanschluss; Ver- und Entsorgung für Wohnmobile sowie Frischwasser gibt es direkt am Platz.",
+        text: "Die meisten Plätze haben einen 16-A-Stromanschluss; Ver- und Entsorgung für Wohnmobile gibt es direkt am Platz.",
         image: { src: `${IMG}/camping-strom-stellplatz.webp`, alt: "Wohnmobile und Zelt auf den Stellplätzen mit Anschlusssäule vor der Bergkulisse" },
       },
       {
         title: "Frisches Brot am Platz",
-        text: "Frisches Brot und Gebäck, täglich von der traditionsreichen Bäckerei Maislinger geliefert — an der Rezeption gibt es Tipps fürs Ausseerland.",
+        text: "Frisches Brot und Gebäck täglich von der Bäckerei Maislinger — an der Rezeption gibt es Tipps fürs Ausseerland.",
         image: { src: `${IMG}/hero-campsite-trisselwand.webp`, alt: "Holzhütte der Rezeption mit bunten Blumen am Eingang von Camping Temel" },
       },
       {
