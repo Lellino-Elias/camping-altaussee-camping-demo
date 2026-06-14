@@ -80,7 +80,7 @@ const campingAltaussee: CampsiteConfig = {
       {
         title: "Großzügige Stellplätze",
         text: "60 parzellierte, teils befestigte Plätze für Wohnmobil, Wohnwagen und Zelt — großzügig angelegt auf ebener Wiese mit Bergblick.",
-        image: { src: `${IMG}/camping-stellplaetze.webp`, alt: "Großzügige Wohnmobil-Stellplätze vor der Felswand" },
+        image: { src: `${IMG}/camping-wiese-trisselwand.webp`, alt: "Blühende Wiese vor der Trisselwand unter blauem Himmel am Camping Temel" },
       },
       {
         title: "Strom & Versorgung",
