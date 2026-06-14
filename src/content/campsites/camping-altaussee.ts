@@ -80,12 +80,12 @@ const campingAltaussee: CampsiteConfig = {
       {
         title: "Großzügige Stellplätze",
         text: "60 parzellierte, teils befestigte Plätze für Wohnmobil, Wohnwagen und Zelt — großzügig angelegt auf ebener Wiese mit Bergblick.",
-        image: { src: `${IMG}/camping-wiese-trisselwand.webp`, alt: "Blühende Wiese vor der Trisselwand unter blauem Himmel am Camping Temel" },
+        image: { src: `${IMG}/camping-stellplaetze-trisselwand.webp`, alt: "Wohnmobile auf der ebenen Wiese vor der mächtigen Felswand am Camping Temel" },
       },
       {
         title: "Strom & Versorgung",
         text: "Die meisten Stellplätze haben einen eigenen 16-A-Stromanschluss; Ver- und Entsorgung für Wohnmobile sowie Frischwasser gibt es direkt am Platz.",
-        image: { src: `${IMG}/camping-strom-abend.webp`, alt: "Wohnmobile am Stellplatz mit Stromanschluss vor der Trisselwand" },
+        image: { src: `${IMG}/camping-strom-stellplatz.webp`, alt: "Wohnmobile und Zelt auf den Stellplätzen mit Anschlusssäule vor der Bergkulisse" },
       },
       {
         title: "Frisches Brot am Platz",
@@ -95,7 +95,7 @@ const campingAltaussee: CampsiteConfig = {
       {
         title: "Waschen & Frischwasser",
         text: "Waschmaschine gegen Gebühr, Frischwasser und eine Entsorgung für Chemietoiletten — alles unkompliziert und direkt am Platz.",
-        image: { src: `${IMG}/camping-waschen.webp`, alt: "Morgenstimmung auf dem Campingplatz Temel — Wiesen und Berge im Dunst" },
+        image: { src: `${IMG}/camping-waschmaschine.webp`, alt: "Waschmaschine und Spülbecken im Waschbereich am Camping Temel" },
       },
       {
         title: "Zeltwiese",
